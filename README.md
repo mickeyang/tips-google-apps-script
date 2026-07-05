@@ -1,2 +1,3 @@
-# tips-google-apps-script
-an online book for GAS tips
+# Google APPs Script (GAS)
+THis is an online book for Google APPs Script (GAS) tips.
+

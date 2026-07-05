@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Tips for Google APPs Script"
+  author: "Awesome Yi"
+  date: "2026-07-05"
+  cover-image: "cover.jpg"
+  chapters:
+    - index.qmd
+    - Automate-Daily-Emails-with-Google-Apps-Script.md
+    - Change-Apps-Script-Trigger-Time-Zone.md
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
